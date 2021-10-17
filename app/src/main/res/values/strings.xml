@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Angelapp</string>
+
+    <string name="title_headlines">Top Stock</string>
+
+    <string name="stock_explore">Stock Explore</string>
+</resources>
